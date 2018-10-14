@@ -1,3 +1,20 @@
+/**
+ * Player.cpp
+ *
+ * Description:
+ *      -Player specific information is stored in this class.
+ *      -This includes their age, weight, and sex
+ *      -Biases are private and use setters/getters
+ *      -Used by AI.cpp and main.cpp to ask questions
+ *      -Fields can be added or removed to increase the information about a user
+ *
+ *      For example, float height could be addded to compare height biases
+ *
+ * Author: Evan Geissler
+ * Date: April, 2018
+ */
+
+
 #include <iostream>
 #include <string>
 

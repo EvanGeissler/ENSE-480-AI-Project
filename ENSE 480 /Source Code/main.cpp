@@ -1,3 +1,16 @@
+/**
+ * main.cpp
+ *
+ * Description:
+ *      -Takes in information about a user
+ *      -Asks user questions to try and form biases
+ *      -Asks new questions based on current & past information
+ *      -Tries to get predicte and get a user to answer certain way
+ *
+ * Author: Evan Geissler
+ * Date: April, 2018
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>
